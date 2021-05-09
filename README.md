@@ -1,1 +1,1 @@
-# Python_2_Sikidom_feladat
+# Python_1_Sikidom_feladat:
